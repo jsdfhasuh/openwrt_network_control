@@ -1,2 +1,2 @@
 # openwrt_network_control
-通过python和iftop编写一个openwrt网络监控
+通过python和iftop编写一个openwrt网络监控,通过协程加快程序运行速度，避免漏掉1MB流量
